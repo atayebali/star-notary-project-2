@@ -2,11 +2,13 @@
 # Details
 
 Token Name: `Star Token`
+
 Token Symbol: `STR`
 
 # Libraries Used
 
 Truffle: `Truffle v5.4.29 (core: 5.4.29)`
+
 OpenZeppelin: `openzeppelin-solidity@2.3.0`
 
 # Contract Address 
